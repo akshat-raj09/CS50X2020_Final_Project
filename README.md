@@ -37,9 +37,9 @@ Documentation and design docs can be found in the following folders :-
 
 - Once the app builds, it should be accessible at *http://localhost:3000*
 
-## Demo
+## Demo Video
 
-[Demo]()
+![Project Demo Video](https://github.com/akshat-raj09/CS50x2020_Final_Project/blob/master/CS50%20Final%20Project%20Demo%20Video.gif)
 
 ## Contributing
 
