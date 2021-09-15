@@ -4,11 +4,11 @@
 
 This repository contains Harvard University's CS50X 2020 Final Project: ***[WeStudy](https://github.com/akshat-raj09/CS50X2020_Final_Project)***. This is a web app that connects students who want to study together.
 
-Documentation and design docs can be found in the following folders :-
+***Documentation and design docs can be found in the following folders :-***
 
-- **Docs:-** *./westudy/client/about/documentation/documentation.html*
+- ***Docs:-*** *./westudy/client/about/documentation/documentation.html*
 
-- **Design:-** *./westudy/client/about/design/design.html*
+- ***Design:-*** *./westudy/client/about/design/design.html*
 
 - These files can also be viewed from the url paths :- */about/documentation* and */about/design.*
 
