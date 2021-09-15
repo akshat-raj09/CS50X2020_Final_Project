@@ -41,6 +41,10 @@ Documentation and design docs can be found in the following folders :-
 
 ![Project Demo Video](https://github.com/akshat-raj09/CS50x2020_Final_Project/blob/master/CS50%20Final%20Project%20Demo%20Video.gif)
 
+## CS50X 2020 Certificate
+
+![CS50X2020 Certificate](https://github.com/akshat-raj09/CS50x2020_Final_Project/blob/master/Akshat%20CS50X2020%20Certificate.jpeg)
+
 ## Contributing
 
 Contributions are always welcome!
